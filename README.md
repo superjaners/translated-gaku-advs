@@ -1,2 +1,2 @@
-# translated-gaku-advs
-A list of completed or work-in-progress translated advs.
+# translated-advs
+Takes from DreamGallery's [public repository](https://github.com/DreamGallery/Campus-adv-txts) and manually translating the desired txt files.
